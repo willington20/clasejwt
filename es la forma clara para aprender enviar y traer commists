@@ -1,0 +1,11 @@
+[33mcommit 3eb0ca42e7aef73b3e1e468741c6922ea5349cd8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mhotflix[m[33m)[m
+Author: willington20 <willingtonguzmana@gmail.com>
+Date:   Wed Feb 25 18:41:53 2026 +0000
+
+    con git commit -m es la forma de pasar un un comit y el add al mismo tiempo
+
+[33mcommit 3c852d0b16eab1751bc84f1ec33433f5cf38ad86[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/hotflix[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: willington20 <willingtonguzmana@gmail.com>
+Date:   Wed Feb 25 13:17:12 2026 -0500
+
+    Initial commit
